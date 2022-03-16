@@ -1,0 +1,21 @@
+1) conectarse a la base de datos con php
+
+archivo a trabajar es: conexiondb.php
+
+2) Mostrar los datos en el archivo index.php en la tabla
+
+3) guardar datos
+
+archivo a trabajar guardar.php
+
+4) editar datos 
+
+archivo a trabajar editar.php
+
+5) elimnar usuario
+
+archivo a trabajar eliminar.php
+
+6) agregar nuevo usuario
+
+archivo a trabajar nuevo.php
